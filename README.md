@@ -88,12 +88,12 @@ com.example.ez_capstone
 
 ## 팀
 
-| 이름 | GitHub | 역할 |
-|------|--------|------|
-| 황동헌 | [@eastlaw02](https://github.com/eastlaw02) | 팀장 |
-| 최재원 | [@cjw0076](https://github.com/cjw0076) | 개발 |
-| 박규리 | — | 개발 |
-| 전동섭 교수 | — | 지도교수 |
+| 이름 | 이메일 | GitHub | 역할 |
+|------|--------|--------|------|
+| 황동헌 | ng524855@gmail.com | [@eastlaw02](https://github.com/eastlaw02) | 팀장 |
+| 최재원 | cjw070690@gmail.com | [@cjw0076](https://github.com/cjw0076) | 개발 |
+| 박규리 | rbflefg5805@gmail.com | — | 개발 |
+| 진동섭 교수 | — | — | 지도교수 |
 
 IT융합학부 · 2026학년도 1학기 캡스톤디자인
 
