@@ -73,7 +73,7 @@ com.example.ez_capstone
 
 ```
 사용자 음성 → STT(Vosk) → GeminiAgentEngine
-  → Function Calling Loop (최대 6회)
+  → Function Calling Loop (최대 14회)
   → ToolExecutor → Kakao/Naver/기상청/오피넷 API
   → AgentResponse → TTS + 동적 카드 UI
 ```
@@ -90,9 +90,9 @@ com.example.ez_capstone
 
 | 이름 | 이메일 | GitHub | 역할 |
 |------|--------|--------|------|
-| 황동헌 | ng524855@gmail.com | [@eastlaw02](https://github.com/eastlaw02) | 팀장 |
-| 최재원 | cjw070690@gmail.com | [@cjw0076](https://github.com/cjw0076) | 개발 |
-| 박규리 | rbflefg5805@gmail.com | — | 개발 |
+| 황동헌 | ng524855@gmail.com | [@eastlaw02](https://github.com/eastlaw02) | 팀장 · Voice Architecture |
+| 최재원 | cjw070690@gmail.com | [@cjw0076](https://github.com/cjw0076) | Full-Stack · AI Architecture |
+| 박규리 | rbflefg5805@gmail.com | — | UI/UX · Design System |
 | 진동섭 교수 | — | — | 지도교수 |
 
 IT융합학부 · 2026학년도 1학기 캡스톤디자인
